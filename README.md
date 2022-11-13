@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate.
 - 
-- 📫 How to reach me mailtorajan0307@gmail.com
+- 📫 How to reach me on email 
 
 <!---
 Rajan-Raj/Rajan-Raj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
